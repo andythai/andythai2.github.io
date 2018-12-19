@@ -1,6 +1,5 @@
 ---
 layout: home2
-title: Me in a Nutshell
 description: "Andy Thai's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
