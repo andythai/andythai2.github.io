@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Andy Thai's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: banner.jpg
 ---
 
 <p>I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</strong>. I currently conduct research in mesh segmentation with the <a href="http://graphics.ics.uci.edu" target="_blank">iGravi</a> graphics lab, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
