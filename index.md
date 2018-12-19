@@ -15,7 +15,7 @@ image:
 
 <br>
 
-<p>I was previously a UCSD undergraduate research assistant in the department of <b>Cognitive Science</b>, where I worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.</p>
+<p>I was previously an undergraduate research assistant in UCSD's Department of <b>Cognitive Science</b>, where I worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.</p>
 
 <h2 id="curriculum-vitae">Curriculum Vitae</h2>
 
