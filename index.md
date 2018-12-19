@@ -25,3 +25,8 @@ image:
 <li><a href="files/cv.pdf" target="_blank">CV</a><br /></li>
 <li><a href="files/resume.pdf" target="_blank">Resume</a><br /></li>
 </ul>
+
+<h2 id="curriculum-vitae">Curriculum Vitae</h2>
+
+Office: DBH 4211  
+E-mail: andy dot thai at uci dot edu
