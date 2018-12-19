@@ -11,7 +11,7 @@ image:
 
 <br>
 
-<p>My research interests include computer vision and the application of machine learning techniques to problems in computer graphics (computer animation and non-photorealistic rendering).</p>
+<p>My research interests include image processing, computer graphics (animation and non-photorealistic rendering), vision, and machine learning.</p>
 
 <br>
 
