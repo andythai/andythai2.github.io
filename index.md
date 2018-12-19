@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-<p>I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</strong>. I currently conduct research in the <a href="http://graphics.ics.uci.edu" target="_blank">iGravi</a> graphics lab, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
+<p>I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</strong>. I currently conduct research in mesh segmentation with the <a href="http://graphics.ics.uci.edu" target="_blank">iGravi</a> graphics lab, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
 
 <br>
 
