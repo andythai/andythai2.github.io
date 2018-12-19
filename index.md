@@ -28,5 +28,7 @@ image:
 
 <h2 id="contact-me">Contact</h2>
 
+<ul>
 <li>Office: DBH 4211</li>
 <li>E-mail: andy dot thai at uci dot edu</li>
+</ul>
