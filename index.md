@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-<p>I am a <strong>Ph.D. student at UC Irvine studying Computer Science</strong>, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
+<p>I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</strong>, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
 
 <br>
 
