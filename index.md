@@ -7,15 +7,17 @@ image:
   feature: trees.jpg
 ---
 
-I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a> 
-and part of the advisory board of <a href="http://www.vilynx.com/index.html" target="_blank">Vilynx</a>.
+<p>I am currently a <strong>Ph.D. student at UC Irvine studying Computer Science</strong>, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
 
-<br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.
+<p>My research interests include computer vision and the application of machine learning techniques to problems in computer graphics (computer animation and non-photorealistic rendering).</p>
 
-<br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
+    <p>I was previously a UCSD undergraduate research assistant in the department of <b>Cognitive Science</b>, where I worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.</p>
 
+<h2 id="curriculum-vitae">Curriculum Vitae</h2>
+
+<p>My resume and CV can be found at the following links:</p>
+
+<ul>
+<li><a href="files/cv.pdf" target="_blank">CV</a><br /></li>
+<li><a href="files/resume.pdf" target="_blank">Resume</a><br /></li>
+</ul>
