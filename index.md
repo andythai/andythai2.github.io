@@ -1,13 +1,13 @@
 ---
 layout: home2
 title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+description: "Andy Thai's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
 ---
 
-<p>I am currently a <strong>Ph.D. student at UC Irvine studying Computer Science</strong>, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
+<p>I am a <strong>Ph.D. student at UC Irvine studying Computer Science</strong>, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
 
 <p>My research interests include computer vision and the application of machine learning techniques to problems in computer graphics (computer animation and non-photorealistic rendering).</p>
 
