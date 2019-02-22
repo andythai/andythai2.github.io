@@ -20,7 +20,7 @@ My research interests include image processing, computer graphics & animation, v
 <br>
 
 <p>
-I will serve as a <href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</p> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 32 (Programming with Software Libraries).  
+I will serve as a <a href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</a> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 32 (Programming with Software Libraries).  
 </p>
 
 <br>
@@ -42,8 +42,10 @@ My resume and CV can be found at the following links:
 
 <h2 id="contact-me">Contact</h2>
 
-<a href="javascript:window.location.href=atob('bWFpbHRvOmVtYWlsQGV4YW1wbGUuY29t')">E-Mail</a>
-
+span.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
 
 <ul>
 <li>Office: DBH 4211</li>
