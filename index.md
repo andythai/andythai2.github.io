@@ -7,19 +7,33 @@ image:
 ---
 <h2 id="me-in-a-nutshell">Me in a Nutshell</h2>
 
-<p>I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</strong>. I currently conduct research in mesh segmentation with the <a href="http://graphics.ics.uci.edu" target="_blank">iGravi</a> graphics lab, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.</p>
+<p>
+I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</strong>. I currently conduct research in mesh segmentation with the <a href="http://graphics.ics.uci.edu" target="_blank">iGravi</a> graphics lab, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.
+</p>
 
 <br>
 
-<p>My research interests include image processing, computer graphics (animation and non-photorealistic rendering), vision, and machine learning.</p>
+<p>
+My research interests include image processing, computer graphics & animation, vision, and machine learning.
+</p>
 
 <br>
 
-<p>I was previously an undergraduate research assistant in UCSD's Department of <b>Cognitive Science</b>, where I worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.</p>
+<p>
+I will serve as a <href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</p> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 32 (Programming with Software Libraries).  
+</p>
+
+<br>
+
+<p>
+I was previously an undergraduate research assistant in UCSD's Department of <b>Cognitive Science</b>, where I worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.
+</p>
 
 <h2 id="curriculum-vitae">Curriculum Vitae</h2>
 
-<p>My resume and CV can be found at the following links:</p>
+<p>
+My resume and CV can be found at the following links:
+</p>
 
 <ul>
 <li><a href="files/cv.pdf" target="_blank">CV</a><br /></li>
@@ -27,6 +41,9 @@ image:
 </ul>
 
 <h2 id="contact-me">Contact</h2>
+
+<a href="javascript:window.location.href=atob('bWFpbHRvOmVtYWlsQGV4YW1wbGUuY29t')">E-Mail</a>
+
 
 <ul>
 <li>Office: DBH 4211</li>
