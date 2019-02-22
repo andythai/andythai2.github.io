@@ -42,11 +42,6 @@ My resume and CV can be found at the following links:
 
 <h2 id="contact-me">Contact</h2>
 
-span.reverse {
-  unicode-bidi: bidi-override;
-  direction: rtl;
-}
-
 <ul>
 <li>Office: DBH 4211</li>
 <li>E-mail: andy dot thai at uci dot edu</li>
