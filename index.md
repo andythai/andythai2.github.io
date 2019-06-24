@@ -8,7 +8,7 @@ image:
 <h2 id="me-in-a-nutshell">Me in a Nutshell</h2>
 
 <p>
-I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</strong>. I currently conduct research in mesh segmentation with the <a href="http://graphics.ics.uci.edu" target="_blank">iGravi</a> graphics lab, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.
+I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</strong>. I currently conduct research in biomedical image processing with the <a href="http://graphics.ics.uci.edu" target="_blank">iGravi</a> graphics lab, advised by <a href="https://www.ics.uci.edu/~gopi/" target="_blank">Professor Gopi Meenakshisundaram</a>.
 </p>
 
 <br>
@@ -20,7 +20,7 @@ My research interests include image processing, computer graphics & animation, v
 <br>
 
 <p>
-I will serve as a <a href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</a> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 32 (Programming with Software Libraries).  
+I will serve as a <a href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</a> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 33 (Python Intermediate Programming).  
 </p>
 
 <br>
