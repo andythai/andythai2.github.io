@@ -1,9 +1,9 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: 
 title: My CV
 tags: [about]
-modified: 8-7-2014
+modified: 6-28-2019
 comments: false
 ---
 <h2 id="my-cv">Curriculum Vitae</h2>
