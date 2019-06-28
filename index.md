@@ -20,7 +20,7 @@ My research interests include image processing, computer graphics & animation, v
 <br>
 
 <p>
-I will serve as a <a href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</a> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 33 (Python Intermediate Programming).  
+I will serve as a <a href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</a> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 33 (Python Intermediate Programming) for the 10 week summer quarter.  
 </p>
 
 <br>
