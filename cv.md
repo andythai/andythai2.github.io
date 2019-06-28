@@ -16,4 +16,3 @@ My resume and CV can be found at the following links:
 <li><a href="http://andyth.ai/files/cv.pdf" target="_blank">CV</a><br /></li>
 <li><a href="http://andyth.ai/files/resume.pdf" target="_blank">Resume</a><br /></li>
 </ul>
-
