@@ -20,13 +20,13 @@ My research interests include image processing, computer graphics & animation, v
 <br>
 
 <p>
-I will serve as a <a href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</a> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 33 (Python Intermediate Programming) for the 10 week summer quarter.  
+I am serving as a <a href="https://grad.uci.edu/about-us/diversity/decade/decade-plus.php" target="_blank">DECADE PLUS</a> Leadership Coach for the 2019-2020 academic year, where I specialize in outreach, mentoring, and leadership for first-generation, under-represented undergraduate student scholars. Additionally, I am a current TA for UCI's ICS 33 (Python Intermediate Programming) for the 10 week summer quarter.  
 </p>
 
 <br>
 
 <p>
-As an undergraduate at UCSD, I majored in Mathematics, Computer Science, and Cognitive Science (specializing in the Human-Computer Interaction sub-field). During my time there, I assisted in conducting research with UCSD's Department of <b>Cognitive Science</b>, with focus on research projects relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodent behavior within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.
+I spent my undergraduate years at UCSD, majoring in Mathematics, Computer Science, and Cognitive Science (specializing in the Human-Computer Interaction sub-field). During my time there, I assisted in conducting research with UCSD's Department of <b>Cognitive Science</b>, with focus on research projects relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodent behavior within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.
 </p>
 
 <h2 id="curriculum-vitae">Curriculum Vitae</h2>
