@@ -26,7 +26,7 @@ I will serve as a <a href="https://grad.uci.edu/about-us/diversity/decade/decade
 <br>
 
 <p>
-As an undergraduate at UCSD, I majored in Mathematics, Computer Science, and Cognitive Science (specializing in the Human-Computer Interaction sub-field). During my time there, I assisted in conducting research with UCSD's Department of <b>Cognitive Science</b>, with focus on research projects relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.
+As an undergraduate at UCSD, I majored in Mathematics, Computer Science, and Cognitive Science (specializing in the Human-Computer Interaction sub-field). During my time there, I assisted in conducting research with UCSD's Department of <b>Cognitive Science</b>, with focus on research projects relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodent behavior within <a href="https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx" target="_blank">Professor Andrea Chiba&rsquo;s</a> laboratory.
 </p>
 
 <h2 id="curriculum-vitae">Curriculum Vitae</h2>
