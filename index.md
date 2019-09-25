@@ -14,7 +14,7 @@ I am a <strong>Ph.D. student at UC Irvine's Department of Computer Science</stro
 <br>
 
 <p>
-My research interests include <b>image processing, computer graphics & animation</b>, vision, and machine learning.
+  My current research focuses on <b>deep learning, 3D vision and geometric processing</b>, but I am also interested in applications including <b>image processing and animation</b>.
 </p>
 
 <br>
